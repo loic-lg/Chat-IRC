@@ -57,3 +57,5 @@ const App = () => {
 };
 
 export default App;
+
+// Tdo : faire la gestion de chat publique
