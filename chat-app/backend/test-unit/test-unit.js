@@ -1,6 +1,7 @@
 import axios from "axios";
 
 // commande:  node test-unit\test-unit.js 
+// verifier que le serveur est bien lancé avant de lancer le test
 
 const BASE_URL = "http://localhost:5001/api"; 
 const TEST_EMAIL = "test1@example.com"; // à modifier 
